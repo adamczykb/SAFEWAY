@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SAFEWAY</string>
+
+    <string name="road_alert_notification_title_template">Road alert: %1$s</string>
+
+    <!-- TODO: remove this placeholder text -->
+    <string name="road_alert_notification_placeholder_text_template">Zobacz informacje o wypadkach dla %1$s.
+    </string>
+</resources>
